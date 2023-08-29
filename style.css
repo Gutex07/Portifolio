@@ -1,0 +1,17 @@
+
+*{
+    width: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+    height: 100vh;
+}
+.cabecalho{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.header{
+    padding: 90px 50%;
+}
