@@ -4,6 +4,8 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
 }
 
 body {
@@ -181,7 +183,7 @@ section.sobre .flex {
 }
 
 .sobre .txt-sobre p {
-    margin: 20px 0;
+    margin: 40px auto;
     text-align: justify;
 }
 
