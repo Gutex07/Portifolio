@@ -1,17 +1,17 @@
 # Portifólio
 
-## Gustavo da Silva Oliveira David
-Casado, 28 anos, formado em Gestão da Tecnologia da Informação, iniciei os meus estudos na área de programador Front-end e estou em busca da minha primeira oportunidade na área.
+Este repositório tem o objetivo de manter um portifólio web atualizado das mais diversas tecnologias de desenvolvimento web.
 
-## Contatos
-Telefone: (61) 98306-1302
+Neste sentido, será possível demonstrar conhecimento das mais diversas tecnologias dominadas.
 
-E-mail: gsoliveiradavid@gmail.com
+Acesse a página: 
 
-Redes sociais:
+## Desenvolvimento
+- contato;
+- currículo;
+- projetos.
 
-Instagram: https://www.instagram.com/gustavoo.david/
-
-Github: https://github.com/Gutex07
-
-Linkedin: https://www.linkedin.com/in/gustavo-david-8474a3140/
+## Concluídos:
+- navegação;
+- links das redes sociais;
+- responsividade.
